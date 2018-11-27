@@ -6,8 +6,8 @@ This was supposed to be implemented fast.ai way but since my PC doesn't have Nvi
 #### Dependencies:
 * [NumPy](http://www.numpy.org/)
 * [Pandas](http://pandas.pydata.org/)
-* [Sk learn} (https://scikit-learn.org/)
-* [Keras] (https://keras.io/)
+* [Sk learn](https://scikit-learn.org/)
+* [Keras](https://keras.io/)
 
 #### This Notebook will show examples of:
 
