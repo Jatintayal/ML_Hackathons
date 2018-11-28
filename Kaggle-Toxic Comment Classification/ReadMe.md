@@ -5,7 +5,7 @@ This is a Project in an IPython Notebook for the Kaggle competition, Toxic Comme
 #### Dependencies:
 * [NumPy](http://www.numpy.org/)
 * [Pandas](http://pandas.pydata.org/)
-* [Keras} (https://keras.io/)
+* [Keras] (https://keras.io/)
 
 
 ### Kaggle Competition | Toxic Comment Classification
