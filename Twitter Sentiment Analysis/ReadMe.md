@@ -5,8 +5,8 @@ This is a Project in an IPython Notebook for the Twitter Sentiment Analysis. The
 #### Dependencies:
 * [NumPy](http://www.numpy.org/)
 * [Pandas](http://pandas.pydata.org/)
-* [Sk learn} (https://scikit-learn.org/)
-* [NLTK] (https://www.nltk.org/)
+* [Sk learn](https://scikit-learn.org/)
+* [NLTK](https://www.nltk.org/)
 
 
 ### Twitter Sentiment Analysis
